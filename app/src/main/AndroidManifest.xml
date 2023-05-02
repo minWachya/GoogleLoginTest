@@ -24,8 +24,8 @@
             </intent-filter>
         </activity>
 
-        <meta-data android:name="com.google.android.gms.games.APP_ID"
-            android:value="1:1012544487:android:796856487236f75c068342" />
+<!--        <meta-data android:name="com.google.android.gms.games.APP_ID"-->
+<!--            android:value="1:1012544487:android:796856487236f75c068342" />-->
 <!--        <meta-data android:name="com.google.android.gms.version"-->
 <!--            android:value="@integer/google_play_services_version" />-->
     </application>
